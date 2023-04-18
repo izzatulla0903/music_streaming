@@ -1,0 +1,77 @@
+body {
+  background-color: #191414;
+}
+.bglight {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.8);
+}
+.bglight {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+.base-a {
+  display: block;
+  color: white;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-left: 10px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 14px;
+}
+.base-a:hover {
+  background-color: #1db954;
+  text-decoration: none;
+}
+.li-left, .li-right {
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+.home-a {
+  color: white;
+}
+.home-a:hover {
+  text-decoration: none;
+  color: #1db954;
+}
+body {
+  background-color: #191414;
+}
+
+/* Стили для верхнего меню */
+.bglight {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgba(0, 0, 0, 0.8);
+  border-top: 1px solid white;
+  border-bottom: 1px solid white;
+}
+
+/* Стили для элементов верхнего меню слева */
+.li-left, .li-right {
+  border-left: 1px solid white;
+  border-right: 1px solid white;
+}
+
+.li-left {
+  float: left;
+}
+
+/* Стили для элементов верхнего меню справа */
+.li-right {
+  float: right;
+}
+
+/* Стили для об
